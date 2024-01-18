@@ -8,18 +8,18 @@
  
         {
             
-            console.writeline("what is your name?");
-            string username = console.readline();
-            console.writeline("how old are you?");
-            string age = console.readline();
-            console.writeline("what is the name of your pet if any?");
-            string userpetname = console.readline();
-            console.writeline("what is the color of your pet?");
-            string userpetcolor = console.readline();
+            //console.writeline("what is your name?");
+            //string username = console.readline();
+            //console.writeline("how old are you?");
+            //string age = console.readline();
+            //console.writeline("what is the name of your pet if any?");
+            //string userpetname = console.readline();
+            //console.writeline("what is the color of your pet?");
+            //string userpetcolor = console.readline();
 
-            console.writeline($"i met a  young man yesterday whom seemed cool, his name was {username}. it shocked me when the man told me he was {age} years old.");
-            console.writeline($"he had this beautiful {userpetcolor}, englisg bulldog named {userpetname}.");
-            console.writeline($"{username} mentioned to me, that he was looking to breed {userpetname} with a lighter verison of {userpetcolor}.");
+            //console.writeline($"i met a  young man yesterday whom seemed cool, his name was {username}. it shocked me when the man told me he was {age} years old.");
+            //console.writeline($"he had this beautiful {userpetcolor}, englisg bulldog named {userpetname}.");
+            //console.writeline($"{username} mentioned to me, that he was looking to breed {userpetname} with a lighter verison of {userpetcolor}.");
 
             Console.WriteLine("Give me a number to add");
             int num1 = int.Parse(Console.ReadLine());
